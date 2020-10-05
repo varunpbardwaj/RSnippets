@@ -34,11 +34,11 @@
     "contributes": {
         "snippets": [
             {
-                "language": "javascriptreact",
+                "language": "javascript",
                 "path": "./snippets/snippets.code-snippets"
             },
             {
-                "language": "javascript",
+                "language": "javascriptreact",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
