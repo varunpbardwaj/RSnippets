@@ -1,5 +1,5 @@
 {
-    "name": "reactjs-javascript-snippets",
+    "name": "rsnippets",
     "displayName": "RSnippets",
     "description": "Simple ReactJS snippets generator(JavaScript-Hooks edition).",
     "version": "0.1.0",
@@ -19,7 +19,11 @@
 		"React Snippets",
 		"snippets",
 		"react snippets",
-		"Snippets"
+        "Snippets",
+        "react",
+        "reactjs",
+        "react snippet",
+        "snippets"
 	],
     "engines": {
         "vscode": "^1.49.0"
@@ -30,11 +34,11 @@
     "contributes": {
         "snippets": [
             {
-                "language": "javascript",
+                "language": "javascriptreact",
                 "path": "./snippets/snippets.code-snippets"
             },
             {
-                "language": "javascriptreact",
+                "language": "javascript",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]

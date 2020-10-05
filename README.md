@@ -1,12 +1,16 @@
-## RSnippets
+> ## RSnippets
 
 This extension for Visual Studio Code adds snippets for ReactJS for JavaScript.
 
-## Usage and Snippets
+<br />
+<img src="https://raw.githubusercontent.com/varunpbardwaj/RSnippets/master/RSnippet.gif"  alt="JS">
+<br />
 
-Type part of a snippet, press enter, and the snippet unfolds.
+> ## Usage and Snippets
 
-Below is a list of all available snippets. Hit `TAB` or `Enter` key to paste snippets.
+Type part of a snippet, Hit `TAB` or `Enter`, and the snippet unfolds.
+
+Below is a list of all available snippets.
 
 <br/>
 
