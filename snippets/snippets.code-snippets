@@ -1,62 +1,62 @@
 {
     "ReactJS Starter Template": {
-        "prefix": "@rst", 
+        "prefix": "rst", 
         "body": [
             "import React, { useState, useEffect } from 'react';\n\nfunction App${1/((^[a-z])|_([a-z]))/${1:/upcase}/g}(props) {\n\tconst [state$2, setState${2/((^[a-z])|_([a-z]))/${2:/upcase}/g}] = useState('');\n\n\tuseEffect(() => {\n${3}\t\treturn () => {\n\n\t\t}\n\t}, []);\n\n\treturn (\n\t\t<>\n\t\t\tReactJS Starter Template by Varun Bardwaj\n\t\t</>\n\t)\n}\n\nexport default App${1/((^[a-z])|_([a-z]))/${1:/upcase}/g};"
         ],
         "description": "Creates ReactJS JavaScript Starter Template\n(Hit tab to apply camelCasing)"
     },
     "React Importer": {
-        "prefix": "@ir", 
+        "prefix": "ir", 
         "body": [
             "import React from 'react';\n${1}"
         ],
         "description": "Imports React from react"
     },
     "React Global Importer": {
-        "prefix": "@i*r", 
+        "prefix": "i*r", 
         "body": [
             "import * as React from 'react';\n${1}"
         ],
         "description": "Imports Everything from react"
     },
     "React and Hooks Importer": {
-        "prefix": "@iru", 
+        "prefix": "iru", 
         "body": [
             "import React, { useState, useEffect, useRef } from 'react';\n${1}"
         ],
         "description": "Imports React, useState, useEffect, useRef"
     },
     "Create a State Hook": {
-        "prefix": "@ust", 
+        "prefix": "ust", 
         "body": [
             "const [state$1, setState${1/((^[a-z])|_([a-z]))/${1:/upcase}/g}] = useState('');"
         ],
         "description": "Creates State Hook\n(Hit tab to apply camelCasing)"
     },
     "Create a life cycle Hook": {
-        "prefix": "@uef", 
+        "prefix": "uef", 
         "body": [
             "useEffect(() => {\n${1}\t\treturn () => {\n\n\t\t}\n}, []);"
         ],
         "description": "Creates useEffect Hook"
     },
     "Create a Ref Hook": {
-        "prefix": "@urf", 
+        "prefix": "urf", 
         "body": [
             "const stateRef${1} = useRef('');\n// use stateRef${1}.current to get current object."
         ],
         "description": "Creates Ref Hook"
     },
     "Create a Function": {
-        "prefix": "@fn", 
+        "prefix": "fn", 
         "body": [
             "function fn_name${1}() {\n}"
         ],
         "description": "Creates Function"
     },
     "Create an Arrow function": {
-        "prefix": "@arr", 
+        "prefix": "arr", 
         "body": [
             "const fn_name${1} = () => {\n}"
         ],
