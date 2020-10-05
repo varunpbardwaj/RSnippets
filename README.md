@@ -16,15 +16,15 @@ Below is a list of all available snippets.
 
 |Snippet|Renders|
 |-------|-----------|
-|`rst`|ReactJS starter template|
-|`ir`|Import React|
-|`i*r`|Import Everything|
-|`iru`|Import React/useState/useEffect/useRef|
-|`ust`|Import useState Hook|
-|`uef`|Import useEffect Hook|
-|`urf`|Import useRef Hook|
-|`fn`|Creates Function|
-|`arr`|Creates an Arrow Function|
+|`@rst`|ReactJS starter template|
+|`@ir`|Import React|
+|`@i*r`|Import Everything|
+|`@iru`|Import React/useState/useEffect/useRef|
+|`@ust`|Import useState Hook|
+|`@uef`|Import useEffect Hook|
+|`@urf`|Import useRef Hook|
+|`@fn`|Creates Function|
+|`@arr`|Creates an Arrow Function|
 
 <br/>
 
