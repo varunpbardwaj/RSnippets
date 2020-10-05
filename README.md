@@ -1,4 +1,4 @@
-> ## RSnippets
+> ## ReactJS Snippets
 
 This extension for Visual Studio Code adds snippets for ReactJS for JavaScript.
 

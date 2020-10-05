@@ -1,6 +1,6 @@
 {
-    "name": "rsnippets",
-    "displayName": "RSnippets",
+    "name": "reactjssnippets",
+    "displayName": "ReactsS Snippets",
     "description": "Simple ReactJS snippets generator(JavaScript-Hooks edition).",
     "version": "0.1.0",
     "icon": "logo.png",
