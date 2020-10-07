@@ -4,7 +4,7 @@ This extension for Visual Studio Code adds snippets for ReactJS for JavaScript.
 
 <br />
 <img src="https://raw.githubusercontent.com/varunpbardwaj/RSnippets/master/RSnippet.gif"  alt="JS">
-<br />
+<br /><br />
 
 > ## Usage and Snippets
 
@@ -25,6 +25,11 @@ Below is a list of all available snippets.
 |`@urf`|Import useRef Hook|
 |`@fn`|Creates Function|
 |`@arr`|Creates an Arrow Function|
+|`@act`|Declare Redux Action Template|
+|`@red`|Declare Redux Reducer Template|
+|`@str`|Declare Redux Store Template + Integration steps|
+|`@mstp`|Declare mapStateToProps|
+|`@dsp`|Declare dispatch method|
 
 <br/>
 
