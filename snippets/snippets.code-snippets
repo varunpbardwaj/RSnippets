@@ -82,5 +82,19 @@
             "import { createStore } from 'redux';\nimport Reducer${1} from '../Reducer';\n\nconst store${2} = createStore(Reducer${1});\n\nexport { store${2} }\n\n{/*\n\n\t{\n\t\t- Scripts to include store\n\t\t\timport { Provider } from 'react-redux';\n\t\t\timport { store } from '../src/Redux/Store';\n\n\t\t-- Inside component renderer\n\t\t\t<Provider store={store}>\n\n\t\t\t</Provider>\n\t}\n\n\t{\n\t\t- Import and implement Redux in files\n\t\t\timport { connect } from 'react-redux';\n\t\t\timport { updateCounter } from '../../Redux/Action';\n\n\t\t-- Add below lines outside React component\n\t\t\tfunction mapStateToProps(state) {\n\t\t\t\t return {\n\t\t\t\t\tgetCounter: state.getCounter\n\t\t\t\t}\n\t\t\t} \n\n\t\t--- Import dispatch and getCounter from props\n\t\t\tconst { dispatch, getCounter } = props;\n\t\t\tdispatch(updateCounter(5));\t// To update counter\n\n\t\t ---- Export React component as\n\t\t\texport default connect(mapStateToProps)(Component_Name);\n\t}\n\n*/}"
         ],
         "description": "Declare Redux Store Template"
+    },
+    "Redux mapStateToProps Template": {
+        "prefix": "@mstp", 
+        "body": [
+            "function mapStateToProps(state) {\n\treturn {\n\t\tgetCounter${1}: state.getCounter${1}\n\t}\n}"
+        ],
+        "description": "Declare mapStateToProps"
+    },
+    "Redux dispatch method": {
+        "prefix": "@dsp", 
+        "body": [
+            "dispatch(updateCounter${1}(value${2}));"
+        ],
+        "description": "Declare dispatch method"
     }
 }
