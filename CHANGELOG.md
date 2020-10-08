@@ -2,6 +2,10 @@
 
 All notable changes to the "ReactJS Snippets" extension will be documented in this file.
 
+## [0.2.2]
+
+- Minor Enhancements.
+
 ## [0.2.1]
 
 - Extend Redux Snippets(@mstp, @dsp)

@@ -33,4 +33,11 @@ Below is a list of all available snippets.
 
 <br/>
 
->**NOTE**: Hit `Tab` to apply CamelCase to variable names.
+>**NOTE**: Hit `Tab` to apply camelCasing to variable names.
+
+<br/>
+
+**Theme used: [Bloc](https://marketplace.visualstudio.com/items?itemName=VarunBardwaj.bloc).**
+
+<br />
+<text style="width: 100%; display: flex;justify-content: center; font-size: 25px; font-weight: 600;">Made with ❤️ &nbsp;in 🇮🇳 </text>
