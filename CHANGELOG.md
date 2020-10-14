@@ -4,6 +4,10 @@ All notable changes to the "ReactJS Snippets" extension will be documented in th
 
 ## [0.2.2]
 
+- Redux Snippets Enhancement.
+
+## [0.2.2]
+
 - Minor Enhancements.
 
 ## [0.2.1]
