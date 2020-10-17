@@ -96,5 +96,12 @@
             "dispatch(updateCounter${1}(value${2}));"
         ],
         "description": "Declare dispatch method"
+    },
+    "Router starter template": {
+        "prefix": "@rtr", 
+        "body": [
+            "//   react-router version - 6.0.0-alpha.3, react-router-dom version - 6.0.0-alpha.3\n\nimport React from 'react';\nimport {BrowserRouter, Routes, Route} from 'react-router-dom';\nimport Component${1} from 'path${2}';\n\nexport default function RouterTemplate${3}() {\n\treturn (\n\t\t<BrowserRouter>\n\t\t\t<Routes>\n\t\t\t\t<Route path='/${4}' element={<Component${1} />} />\n\t\t\t</Routes>\n\t\t</BrowserRouter>\n\t);\n}"
+        ],
+        "description": "Creates Router Starter Template"
     }
 }

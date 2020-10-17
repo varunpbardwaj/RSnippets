@@ -30,6 +30,7 @@ Below is a list of all available snippets.
 |`@str`|Declare Redux Store Template + Integration steps|
 |`@mstp`|Declare mapStateToProps|
 |`@dsp`|Declare dispatch method|
+|`@rtr`|Router Starter Template|
 
 <br/>
 
