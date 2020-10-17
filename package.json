@@ -2,7 +2,7 @@
     "name": "reactjssnippets",
     "displayName": "ReactJS Snippets",
     "description": "Simple ReactJS snippets generator(JavaScript-Hooks edition).",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "logo.png",
 	"author": {
 		"name": "Varun Bardwaj",

@@ -2,6 +2,10 @@
 
 All notable changes to the "ReactJS Snippets" extension will be documented in this file.
 
+## [1.1.0]
+
+- Added Router Snippets.
+
 ## [1.0.0]
 
 - Added Router Starter Template.

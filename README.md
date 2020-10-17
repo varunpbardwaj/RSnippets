@@ -31,6 +31,8 @@ Below is a list of all available snippets.
 |`@mstp`|Declare mapStateToProps|
 |`@dsp`|Declare dispatch method|
 |`@rtr`|Router Starter Template|
+|`@irrd`|Imports react-router-dom|
+|`@rut`|Declares Route|
 
 <br/>
 

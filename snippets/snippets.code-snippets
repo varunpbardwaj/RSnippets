@@ -103,5 +103,19 @@
             "//   react-router version - 6.0.0-alpha.3, react-router-dom version - 6.0.0-alpha.3\n\nimport React from 'react';\nimport {BrowserRouter, Routes, Route} from 'react-router-dom';\nimport Component${1} from 'path${2}';\n\nexport default function RouterTemplate${3}() {\n\treturn (\n\t\t<BrowserRouter>\n\t\t\t<Routes>\n\t\t\t\t<Route path='/${4}' element={<Component${1} />} />\n\t\t\t</Routes>\n\t\t</BrowserRouter>\n\t);\n}"
         ],
         "description": "Creates Router Starter Template"
+    },
+    "Router Dom Importer": {
+        "prefix": "@irrd", 
+        "body": [
+            "import {BrowserRouter, Routes, Route} from 'react-router-dom'"
+        ],
+        "description": "Imports react-router-dom"
+    },
+    "Route Tag Declaration": {
+        "prefix": "@rut", 
+        "body": [
+            "<Route path='/${1}' element={<Component${2} />} />"
+        ],
+        "description": "Declares Route"
     }
 }
