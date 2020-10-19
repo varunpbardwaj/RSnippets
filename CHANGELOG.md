@@ -4,6 +4,10 @@ All notable changes to the "ReactJS Snippets" extension will be documented in th
 
 ## [1.1.0]
 
+- Minor Enhancements.
+
+## [1.1.0]
+
 - Added Router Snippets.
 
 ## [1.0.0]
