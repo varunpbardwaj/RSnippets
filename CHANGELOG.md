@@ -2,7 +2,11 @@
 
 All notable changes to the "ReactJS Snippets" extension will be documented in this file.
 
-## [1.1.0]
+## [1.2.1]
+
+- Minor Enhancements.
+
+## [1.2.0]
 
 - Minor Enhancements.
 
