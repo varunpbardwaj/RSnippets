@@ -2,6 +2,10 @@
 
 All notable changes to the "ReactJS Snippets" extension will be documented in this file.
 
+## [1.3.0]
+
+- Support to typescript files.
+
 ## [1.2.1]
 
 - Minor Enhancements.

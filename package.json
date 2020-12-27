@@ -1,8 +1,8 @@
 {
     "name": "reactjssnippets",
     "displayName": "ReactJS Snippets",
-    "description": "Simple ReactJS snippets generator(JavaScript-Hooks edition).",
-    "version": "1.2.1",
+    "description": "Simple ReactJS snippets generator.",
+    "version": "1.3.0",
     "icon": "logo.png",
 	"author": {
 		"name": "Varun Bardwaj",
@@ -23,7 +23,8 @@
         "react",
         "reactjs",
         "react snippet",
-        "snippets"
+        "snippets",
+        "snippet"
 	],
     "engines": {
         "vscode": "^1.49.0"
@@ -39,6 +40,14 @@
             },
             {
                 "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
