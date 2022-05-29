@@ -23,6 +23,9 @@ Below is a list of all available snippets.
 |`@ust`|Import useState Hook|
 |`@uef`|Import useEffect Hook|
 |`@urf`|Import useRef Hook|
+|`@irds`|Imports Redux useDispatch and useSelector|
+|`@udf`|Declare dispatch function|
+|`@rsf`|Creates a Redux Selector Function|
 |`@fn`|Creates Function|
 |`@arr`|Creates an Arrow Function|
 |`@act`|Declare Redux Action Template|

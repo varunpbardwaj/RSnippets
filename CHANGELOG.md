@@ -2,6 +2,13 @@
 
 All notable changes to the "ReactJS Snippets" extension will be documented in this file.
 
+## [2.0.1]
+
+- Update README
+## [2.0.0]
+
+- Add additional Redux Hooks(useDispatch, useSelector) and Redux implementation.
+
 ## [1.3.0]
 
 - Support to typescript files.
